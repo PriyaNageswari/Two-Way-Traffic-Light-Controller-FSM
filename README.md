@@ -29,11 +29,15 @@ G_R → G_Y → R_G → Y_G → G_R
 
 ## Simulation Result
 
-![Simulation Waveform](Simulation_Results/TLC_vivado_sim.png)
+<p align="center">
+  <img src="Simulation_Results/TLC_vivado_sim.png" width="900">
+</p>
 
 ## RTL Schematic
 
-![RTL Schematic](RTL_Schematic/TLC_schematic.png)
+<p align="center">
+  <img src="RTL_Schematic/TLC_schematic.png" width="900">
+</p>
 
 ## Author
 
