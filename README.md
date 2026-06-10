@@ -27,13 +27,13 @@ G_R → G_Y → R_G → Y_G → G_R
 * Vivado
 * Overleaf
 
-## Simulation Result
-
-![Simulation](TLC_vivado_sim.png)
-
 ## RTL Schematic
 
 ![RTL Schematic](TLC_schematic.png)
+
+## Simulation Result
+
+![Simulation](TLC_vivado_sim.png)
 
 ## Author
 
